@@ -1,5 +1,6 @@
  Hi,I am aditya kr.
-  expert in HTML,CSS 
+  expert in HTML,CSS
+  DSA With JAVA, FULL STACK LEARNER
 - intrested in computer science
 - student of btech CSIT
 - AKTU||DGI"26
